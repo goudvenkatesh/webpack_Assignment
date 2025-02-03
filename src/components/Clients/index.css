@@ -1,0 +1,20 @@
+#clients{
+    background-color: #e5e1e1;
+    padding: 4rem;
+    height: calc(60vh - 4rem);
+}
+.clients-heading{
+    text-align: center;
+    margin-bottom: 0rem;
+}
+.slider-container{
+    width: 100vw;
+    max-width: 80rem;
+    padding: 4rem;
+}
+.client-card{
+    border: 1px solid gray;
+    margin-right: 1rem;
+    padding: 1rem 1.5rem;
+    width: 200px;
+}

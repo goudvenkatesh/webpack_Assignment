@@ -1,0 +1,43 @@
+#products{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: #f0eaea;
+    height: calc(100vh -4rem);
+    padding: 4rem;
+    width: 100vw;
+}
+.heading{
+    font-family: "Roboto";
+}
+.description{
+    font-family: "Roboto";
+}
+.images-container{
+    display: flex;
+    margin: 2rem;
+}
+.image-container{
+    display: flex;
+    flex-direction: column;
+    background: white;
+    margin-right: 1.5rem;
+    padding-top: 0rem;
+    padding-bottom: 1rem;
+    padding-right: 1rem;
+}
+.image{
+    width: 215px;
+    height: 200px;
+}
+.label-text{
+    padding-left: 0.5rem;
+}
+.button{
+    border: none;
+    background: #20205c;
+    color: #fff;
+    border-radius: 0.5rem;
+    padding: 0.5rem 2rem;
+}

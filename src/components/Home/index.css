@@ -1,0 +1,19 @@
+#home{
+    background-image: url('https://img.freepik.com/free-photo/standard-quality-control-concept-m_23-2150041863.jpg?t=st=1738549908~exp=1738553508~hmac=5a34af6232606a2c64202341d6562ad1e0b8860cafed7c65a63c689eddb7894e&w=826');
+    background-size: cover;
+    height: 65vh;
+}
+.carousal-text-container{
+    padding: 10rem;
+    height: 400px;
+    max-width: 50rem;
+    width: 100vw;
+}
+.carousal-btn{
+    background: white;
+    color: black;
+    border: none;
+    border-radius: 0.5rem;
+    padding: 0.5rem 1rem;
+    font-family: "Roboto";
+}

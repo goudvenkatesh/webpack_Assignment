@@ -1,0 +1,75 @@
+.footer{
+    background:#000000;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 2rem 8rem;
+}
+.top-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.company-description{
+    max-width: 40rem;
+    color: #969393;
+}
+.webpack-heading{
+    color: #fff;
+}
+.description{
+    font-weight: 400;
+    font-size: 1rem;
+    max-width: 40rem;
+}
+.icon{
+    width: 1.8rem;
+    height: 3.5rem;
+    margin-right: 0.5rem;
+}
+
+.company-links{
+    width: 40rem;
+}
+.company-heading{
+    color: #fff;
+}
+.links-section{
+    display: flex;
+}
+.next-icon{
+    color: #ffffff;
+}
+.link{
+    font-family: "Roboto";
+    font-weight: 500;
+    color: #fff;
+}
+.company-contact-details{
+    width: 400px;
+}
+.contact-information{
+    display: flex;
+    align-items: center;
+    color: #fff;
+}
+.contact-details{
+    margin-left: 0.4rem;
+}
+hr {
+    height: 2px;
+    background-color: #007bff;
+  }
+
+.copy-rights-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.copy-heading{
+    color: #fff;
+}
+.name{
+    color: #007bff;
+}
