@@ -1,7 +1,7 @@
 import React from 'react'
 import { PiFacebookLogo } from "react-icons/pi";
 import { CiInstagram } from "react-icons/ci";
-import { FaTwitterSquare } from "react-icons/fa";
+import { CiTwitter } from "react-icons/ci";
 import { CiLinkedin } from "react-icons/ci";
 import { MdNavigateNext } from "react-icons/md";
 import { MdOutlinePhoneInTalk } from "react-icons/md";
@@ -25,7 +25,7 @@ const Footer = () => {
         <div>
           <PiFacebookLogo className='icon'/>
           <CiInstagram className='icon'/>
-          <FaTwitterSquare className='icon'/>
+          <CiTwitter className='icon'/>
           <CiLinkedin className='icon'/>
         </div>
       </div>
@@ -67,7 +67,7 @@ const Footer = () => {
         </div>
       </div>
       </div>
-      <hr/>
+      <div className='line'></div>
       <div className='copy-rights-container'>
         <p className='copy-heading'>Copy rights @ 2025 All rights reserved</p>
         <p className='copy-heading'>Designed by <span className='name'>Aakruti</span></p>

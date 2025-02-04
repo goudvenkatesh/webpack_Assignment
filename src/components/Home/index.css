@@ -9,6 +9,17 @@
     max-width: 50rem;
     width: 100vw;
 }
+.home-heading{
+    color: #7f6060;
+    font-weight: 900;
+    font-family: "Roboto";
+}
+.home-description{
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 22px;
+}
+
 .carousal-btn{
     background: white;
     color: black;

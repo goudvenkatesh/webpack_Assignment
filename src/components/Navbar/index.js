@@ -5,7 +5,7 @@ import './index.css'
 const Navbar = () => {
   return (
     <nav className='navbar'>
-      <img src='https://img.freepik.com/free-vector/luxury-logo-gradient-design-illustration_483537-1038.jpg?uid=R79145184&ga=GA1.1.829025863.1738515082&semt=ais_hybrid'
+      <img src='https://media.licdn.com/dms/image/v2/C560BAQFp8ZBY_-P05A/company-logo_200_200/company-logo_200_200/0/1637757614009/aakruti_solutions_logo?e=2147483647&v=beta&t=s7I5HHoK_8MOaZrUUZg76uwfFcpN3a-JvLZe4ZYT1UY'
       alt='' className='logo'/>
       <div className='menu-items'>
         <Link activeClass='active' to="home" spy={true} smooth={true} offset={-130} duration={500} className='menu-item' style={{ textDecoration: "none"}}>HOME</Link>

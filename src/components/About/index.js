@@ -16,7 +16,7 @@ const About = () => {
             Lorem Ipsum Lorem Ipsum
             is simply dumply text of the printing and typesetting industry
             </p>
-            <button>Read More...<span><MdNavigateNext/></span></button>
+            <button className='readmore-btn'>Read More...<span><MdNavigateNext/></span></button>
         </div>
         <div className='img-container'>
         <img src='https://img.freepik.com/free-photo/close-up-side-view-engineer-architect-supervising-construction_23-2148233789.jpg?t=st=1738561139~exp=1738564739~hmac=dd5bb3ca0879185c818372edb5b3e6f50946f659acb2e00af35dd596d4e4f5e9&w=900'

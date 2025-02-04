@@ -2,7 +2,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    height: calc(90vh - 5rem);
+    height: calc(100vh - 10rem);
     padding: 0rem 10rem;
     width: 100vw;
     max-width: 80rem;
@@ -33,6 +33,13 @@
     padding-top: 0rem;
     margin-left: 1.5rem;
 }
+.readmore-btn{
+    border: none;
+    background: #3c009d;
+    border-radius: 0.5rem;
+    padding: 0.5rem 1rem;
+    color: #fff;
+}
 .img-container{
     background-color: #8c91de;
     padding-right: 1rem;
@@ -40,6 +47,6 @@
     padding-left: 0rem;
 }
 .about-img{
-    width: 350px;
-    height: 270px;
+    width: 300px;
+    height: 200px;
 }

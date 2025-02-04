@@ -4,9 +4,10 @@ import './index.css'
 const Products = () => {
   return (
     <section id='products'>
-      <h1>What We do</h1>
-      <p>Lorem Ipsum is Simply dummy text of the printing and typesetting industry.
-        Lorem ipsum Lorem Ipsum is simply text of the prinating
+      <h1 className='product-heading'>What We do</h1>
+      <p className='product-description'>
+        Lorem Ipsum is simply dummy text of the printing and typesetting
+        industry. Lorem Ipsum Lorem Ipsum is simply dummy text of the prinating
       </p>
       <div className='images-container'>
         <div className='image-container'>

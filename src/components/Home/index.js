@@ -23,22 +23,22 @@ const Home = () => {
       <div class="carousel-inner">
         <div class="carousel-item active">
           <div className='carousal-text-container'>
-            <h1>Highest Quality Packaging Solutions</h1>
-            <p>Lorem Ipsum is Sumply dummy text of the printing and typesetting industry. Lorem Ipsum</p>
+            <h1 className='home-heading'>Highest Quality Packaging Solutions</h1>
+            <p className='home-description'>Lorem Ipsum is Simply dummy text of the printing and typesetting industry. Lorem Ipsum</p>
             <button className='carousal-btn'>ReadMore..</button>
           </div>
         </div>
         <div class="carousel-item">
           <div className='carousal-text-container'>
-            <h1>Highest Quality Packaging Solutions</h1>
-            <p>Lorem Ipsum is Sumply dummy text of the printing and typesetting industry. Lorem Ipsum</p>
+            <h1 className='home-heading'>Highest Quality Packaging Solutions</h1>
+            <p className='home-description'>Lorem Ipsum is Simply dummy text of the printing and typesetting industry. Lorem Ipsum</p>
             <button className='carousal-btn'>ReadMore..</button>
           </div>
         </div>
         <div class="carousel-item">
           <div className='carousal-text-container'>
-            <h1>Highest Quality Packaging Solutions</h1>
-            <p>Lorem Ipsum is Sumply dummy text of the printing and typesetting industry. Lorem Ipsum</p>
+            <h1 className='home-heading'>Highest Quality Packaging Solutions</h1>
+            <p className='home-description'>Lorem Ipsum is Simply dummy text of the printing and typesetting industry. Lorem Ipsum</p>
             <button className='carousal-btn'>ReadMore..</button>
           </div>
         </div>

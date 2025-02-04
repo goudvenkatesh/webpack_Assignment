@@ -18,19 +18,19 @@ const Clients = () => {
         <Slider {...settings}>
             <div className='client-card'>
                 <img src='' alt=''/>
-                <h2>Dr.Reddy's</h2>
+                <h3>Dr.Reddy's</h3>
             </div>
             <div className='client-card'>
                 <img src='' alt=''/>
-                <h2>Dr.Reddy's</h2>
+                <h3>HETERO</h3>
             </div>
             <div className='client-card'>
                 <img src='' alt=''/>
-                <h2>Dr.Reddy's</h2>
+                <h3>BIOTECH</h3>
             </div>
             <div className='client-card'>
                 <img src='' alt=''/>
-                <h2>Dr.Reddy's</h2>
+                <h3>BIOCOIN</h3>
             </div>
         </Slider>
       </div>
